@@ -411,6 +411,5 @@
         "download": "2 * * * *",    // at 9AM, every day
         "upload": "2 * * * *"      // at 5PM, every day
     },
-    "window.zoomLevel": -1,
     "syncSettings.showFinishAlert": false,
 }
