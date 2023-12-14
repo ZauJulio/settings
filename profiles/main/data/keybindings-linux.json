@@ -1,0 +1,220 @@
+[
+  {
+    "key": "ctrl+delete",
+    "command": "editor.action.deleteLines",
+    "when": "textInputFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+shift+k",
+    "command": "-editor.action.deleteLines",
+    "when": "textInputFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+down",
+    "command": "editor.action.copyLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+shift+alt+down",
+    "command": "-editor.action.copyLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+up",
+    "command": "editor.action.copyLinesUpAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+shift+alt+up",
+    "command": "-editor.action.copyLinesUpAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+r",
+    "command": "extension.rerunLastCommand"
+  },
+  {
+    "key": "ctrl+f7",
+    "command": "-extension.rerunLastCommand"
+  },
+  {
+    "key": "ctrl+insert",
+    "command": "github.copilot.generate",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+enter",
+    "command": "-github.copilot.generate",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "tab",
+    "command": "-markdown.extension.onTabKey",
+    "when": "editorTextFocus && !editorReadonly && !editorTabMovesFocus && !hasOtherSuggestions && !hasSnippetCompletions && !inSnippetMode && !suggestWidgetVisible && editorLangId == 'markdown'"
+  },
+  {
+    "key": "shift+alt+right",
+    "command": "-editor.action.smartSelect.expand",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+k ctrl+j",
+    "command": "editor.action.smartSelect.shrink",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "shift+alt+left",
+    "command": "-editor.action.smartSelect.shrink",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+shift+k ctrl+shift+j",
+    "command": "editor.fold",
+    "when": "editorTextFocus && foldingEnabled"
+  },
+  {
+    "key": "ctrl+shift+[",
+    "command": "-editor.fold",
+    "when": "editorTextFocus && foldingEnabled"
+  },
+  {
+    "key": "ctrl+shift+]",
+    "command": "-editor.unfold",
+    "when": "editorTextFocus && foldingEnabled"
+  },
+  {
+    "key": "ctrl+k ctrl+j",
+    "command": "editor.foldAll",
+    "when": "editorTextFocus && foldingEnabled"
+  },
+  {
+    "key": "ctrl+k ctrl+0",
+    "command": "-editor.foldAll",
+    "when": "editorTextFocus && foldingEnabled"
+  },
+  {
+    "key": "ctrl+k ctrl+l",
+    "command": "editor.unfoldAll",
+    "when": "editorTextFocus && foldingEnabled"
+  },
+  {
+    "key": "ctrl+k ctrl+j",
+    "command": "-editor.unfoldAll",
+    "when": "editorTextFocus && foldingEnabled"
+  },
+  {
+    "key": "ctrl+space",
+    "command": "editor.action.quickFix",
+    "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+.",
+    "command": "-editor.action.quickFix",
+    "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+shift+c",
+    "command": "-workbench.action.terminal.openNativeConsole",
+    "when": "!terminalFocus"
+  },
+  {
+    "key": "ctrl+w",
+    "command": "-workbench.action.terminal.killEditor",
+    "when": "terminalEditorFocus && terminalFocus && terminalProcessSupported && resourceScheme == 'vscode-terminal'"
+  },
+  {
+    "key": "alt",
+    "command": "workbench.action.toggleMenuBar"
+  },
+  {
+    "key": "ctrl+.",
+    "command": "workbench.action.terminal.toggleTerminal",
+    "when": "terminal.active"
+  },
+  {
+    "key": "ctrl+shift+[BracketLeft]",
+    "command": "-workbench.action.terminal.toggleTerminal",
+    "when": "terminal.active"
+  },
+  {
+    "key": "ctrl+shift+[Semicolon]",
+    "command": "workbench.action.createTerminalEditorSide"
+  },
+  {
+    "key": "ctrl+q",
+    "command": "-workbench.action.quit"
+  },
+  {
+    "key": "ctrl+w",
+    "command": "-workbench.action.terminal.killEditor",
+    "when": "terminalEditorFocus && terminalFocus && terminalHasBeenCreated && resourceScheme == 'vscode-terminal' || terminalEditorFocus && terminalFocus && terminalProcessSupported && resourceScheme == 'vscode-terminal'"
+  },
+  {
+    "key": "ctrl+shift+w",
+    "command": "-workbench.action.closeWindow"
+  },
+  {
+    "key": "ctrl+shift+w",
+    "command": "workbench.action.terminal.killEditor"
+  },
+  {
+    "key": "ctrl+shift+v",
+    "command": "-workbench.action.terminal.paste",
+    "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported"
+  },
+  {
+    "key": "ctrl+t",
+    "command": "-workbench.action.showAllSymbols"
+  },
+  {
+    "key": "ctrl+t",
+    "command": "workbench.action.files.newUntitledFile"
+  },
+  {
+    "key": "ctrl+n",
+    "command": "-workbench.action.files.newUntitledFile"
+  },
+  {
+    "key": "alt+m",
+    "command": "editor.action.toggleMinimap"
+  },
+  {
+    "key": "ctrl+shift+g",
+    "command": "-workbench.view.scm",
+    "when": "workbench.scm.active"
+  },
+  {
+    "key": "ctrl+shift+g",
+    "command": "workbench.view.scm",
+    "when": "workbench.scm.active && !gitlens:disabled && config.gitlens.keymap == 'chorded'"
+  },
+  {
+    "key": "ctrl+shift+g g",
+    "command": "-workbench.view.scm",
+    "when": "workbench.scm.active && !gitlens:disabled && config.gitlens.keymap == 'chorded'"
+  },
+  {
+    "key": "ctrl+s",
+    "command": "-issue.createIssueFromFile",
+    "when": "!issues.creatingFromFile && resourceScheme == 'newIssue' && config.files.autoSave != 'off'"
+  },
+  {
+    "key": "ctrl+shift+k ctrl+shift+l",
+    "command": "editor.unfoldRecursively",
+    "when": "editorTextFocus && foldingEnabled"
+  },
+  {
+    "key": "ctrl+k ctrl+]",
+    "command": "-editor.unfoldRecursively",
+    "when": "editorTextFocus && foldingEnabled"
+  },
+  {
+    "key": "ctrl+k ctrl+l",
+    "command": "-editor.toggleFold",
+    "when": "editorTextFocus && foldingEnabled"
+  },
+  {
+    "key": "shift+i",
+    "command": "eslint.executeAutofix"
+  }
+]
