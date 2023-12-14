@@ -411,4 +411,5 @@
         "upload": "2 * * * *"      // at 5PM, every day
     },
     "window.zoomLevel": -1,
+    "syncSettings.showFinishAlert": false,
 }
