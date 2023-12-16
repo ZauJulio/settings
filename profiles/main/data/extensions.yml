@@ -3,8 +3,16 @@ disabled:
     uuid: 0f8bd812-5d52-4fff-bd1c-6b0a7ee9cad9
   - id: burkeholland.simple-react-snippets
     uuid: a84825e8-5f04-4988-b85a-4942e795bcbe
+  - id: Codium.codium
+    uuid: 9236e634-e663-41bc-b320-03ab778e7110
+  - id: DanielSanMedium.dscodegpt
+    uuid: eb8db386-b7d8-4961-8048-b188d778a1e9
   - id: EQuimper.react-native-react-redux
     uuid: 7f7e0e9c-b5ad-4e21-a425-f63bd56cb13f
+  - id: FexCopilot.fexcopilot
+    uuid: 804a6035-76d9-4fa4-b8ca-23d997506855
+  - id: genieai.chatgpt-vscode
+    uuid: daf35080-6889-46fc-89bf-288dce8f8ed2
   - id: GitHub.copilot-labs
     uuid: 327edf3f-193d-4147-9bd5-e3763272116f
   - id: GitLab.gitlab-workflow
@@ -196,6 +204,8 @@ enabled:
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
   - id: streetsidesoftware.code-spell-checker-portuguese-brazilian
     uuid: a669e675-9cb2-48a8-983d-33a1c4ed10ef
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
   - id: tamasfe.even-better-toml
     uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
   - id: twxs.cmake

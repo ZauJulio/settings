@@ -412,4 +412,6 @@
         "upload": "0 */6 * * *"
     },
     "syncSettings.showFinishAlert": false,
+    "CodeGPT.model": "gpt-3.5-turbo-16k",
+    "genieai.openai.model": "gpt-3.5-turbo-instruct",
 }
