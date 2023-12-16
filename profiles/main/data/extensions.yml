@@ -1,12 +1,22 @@
 disabled:
+  - id: bierner.color-info
+    uuid: 0f8bd812-5d52-4fff-bd1c-6b0a7ee9cad9
+  - id: burkeholland.simple-react-snippets
+    uuid: a84825e8-5f04-4988-b85a-4942e795bcbe
+  - id: EQuimper.react-native-react-redux
+    uuid: 7f7e0e9c-b5ad-4e21-a425-f63bd56cb13f
   - id: GitHub.copilot-labs
     uuid: 327edf3f-193d-4147-9bd5-e3763272116f
   - id: GitLab.gitlab-workflow
     uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
   - id: GrapeCity.gc-excelviewer
     uuid: 8bb12ae3-73f8-40cf-86b7-4bd5729c6238
+  - id: IronGeek.vscode-env
+    uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
   - id: lokalise.i18n-ally
     uuid: 8ab81d13-c812-4a2f-8f19-c32e3655e53c
+  - id: ms-vscode.cpptools-themes
+    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
   - id: mtxr.sqltools
     uuid: 6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b
   - id: vscodevim.vim
@@ -18,8 +28,6 @@ enabled:
     uuid: 88a2b659-4503-4bad-ae9b-1b8c7f766c90
   - id: andersliu.insert-line-number
     uuid: 38669d55-bebb-4ef9-90b8-0f978ad5baac
-  - id: bierner.color-info
-    uuid: 0f8bd812-5d52-4fff-bd1c-6b0a7ee9cad9
   - id: bierner.gif-player
     uuid: ff3e8d46-6684-4d74-b098-c320411e0949
   - id: bierner.markdown-checkbox
@@ -28,8 +36,6 @@ enabled:
     uuid: f8d0ffc4-66bb-4a9c-8149-ef8f043691a1
   - id: brenosolutions.sqlformatter
     uuid: 01c32df9-d009-4887-a4dd-b5609df142d8
-  - id: burkeholland.simple-react-snippets
-    uuid: a84825e8-5f04-4988-b85a-4942e795bcbe
   - id: Cameron.rerun-last-command
     uuid: 4be98a26-bf5a-47fc-a4fc-69a13e889899
   - id: christian-kohler.npm-intellisense
@@ -56,8 +62,6 @@ enabled:
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: EditorConfig.EditorConfig
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
-  - id: EQuimper.react-native-react-redux
-    uuid: 7f7e0e9c-b5ad-4e21-a425-f63bd56cb13f
   - id: equinusocio.vsc-material-theme-icons
     uuid: 6959958f-be4d-42c4-8aa4-dc2c2f086b0a
   - id: esbenp.prettier-vscode
@@ -92,8 +96,6 @@ enabled:
     uuid: e1ab76b1-9acd-4ffa-baf7-1d9eaf7cf3d2
   - id: IBM.output-colorizer
     uuid: 113b22c8-8125-42ec-8c6b-80c3f5d5fa5f
-  - id: IronGeek.vscode-env
-    uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: jeffersonlicet.snipped
@@ -150,8 +152,6 @@ enabled:
     uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
   - id: ms-vscode.cpptools-extension-pack
     uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
-  - id: ms-vscode.cpptools-themes
-    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
   - id: ms-vscode.live-server
     uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
   - id: ms-vscode.remote-repositories
