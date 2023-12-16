@@ -12,8 +12,7 @@
         "editor.selectionHighlight": false,
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "editor.suggestSelection": "first",
-        "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": false
+        "editor.tabCompletion": "onlySnippets"
     },
     "[dockercompose]": {
         "editor.defaultFormatter": "ms-azuretools.vscode-docker"
@@ -39,12 +38,14 @@
     "[latex]": {
         "editor.defaultFormatter": "nickfode.latex-formatter"
     },
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter",
         "editor.formatOnSave": true,
         "editor.insertSpaces": true,
         "editor.tabSize": 4,
-        "editor.wordBasedSuggestions": false,
         "gitlens.codeLens.symbolScopes": [
             "!Module"
         ]
@@ -52,17 +53,32 @@
     "[rust]": {
         "editor.defaultFormatter": "rust-lang.rust-analyzer"
     },
+    "[shellscript]": {
+        "editor.defaultFormatter": "foxundermoon.shell-format"
+    },
     "[sql]": {},
+    "[svg]": {
+        "editor.defaultFormatter": "jock.svg"
+    },
     "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "autoDocstring.docstringFormat": "numpy",
     "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
-    "clangd.path": "/home/zau/.config/Code/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/10.0.0/clangd_10.0.0/bin/clangd",
     "commitReminder.interval": 5,
     "commitReminder.minimumFileChanges": 1,
-    "createReactTSXComponent.useCSSModule": true,
-    "createReactTSXComponent.useReactImport": true,
+    "cSpell.ignorePaths": [
+        "package-lock.json",
+        "node_modules",
+        "vscode-extension",
+        ".git/objects",
+        ".vscode",
+        ".vscode-insiders",
+        "*/Code/User/settings.json"
+    ],
     "cSpell.language": "en,pt,pt-BR",
     "cSpell.userWords": [
         "attendes",
@@ -86,6 +102,7 @@
         "Demonstrativo",
         "Dests",
         "dispacth",
+        "dockercompose",
         "Dont",
         "engecomp",
         "Engecomp",
@@ -107,10 +124,13 @@
         "Gpid",
         "hookform",
         "IPDF",
+        "Jetbrains",
         "Júlio",
+        "jupyter",
         "keychain",
         "kronics",
         "Kronics",
+        "liveshare",
         "luxon",
         "matplotlib",
         "mendesbarreto",
@@ -125,6 +145,8 @@
         "nextjs",
         "nmap",
         "notificated",
+        "numpy",
+        "openai",
         "openapi",
         "oporunity",
         "Pagamento",
@@ -156,6 +178,7 @@
         "zaujulio"
     ],
     "debug.console.fontSize": 14,
+    "diffEditor.ignoreTrimWhitespace": false,
     "diffEditor.maxComputationTime": 0,
     "editor.codeActionsOnSave": {
         "source.fixAll.tslint": "explicit",
@@ -166,6 +189,8 @@
     "editor.fontLigatures": true,
     "editor.formatOnSave": true,
     "editor.formatOnSaveMode": "modifications",
+    "editor.inlineSuggest.enabled": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
     "editor.largeFileOptimizations": false,
     "editor.lineHeight": 24,
     "editor.maxTokenizationLineLength": 200000,
@@ -176,6 +201,7 @@
     "editor.renderControlCharacters": true,
     "editor.renderLineHighlight": "gutter",
     "editor.suggestSelection": "first",
+    "editor.semanticHighlighting.enabled": true,
     "editor.tabSize": 2,
     "editor.unicodeHighlight.ambiguousCharacters": false,
     "editor.unicodeHighlight.invisibleCharacters": false,
@@ -185,7 +211,7 @@
     "emmet.syntaxProfiles": {
         "javascript": "jsx"
     },
-    "eslint.packageManager": "yarn",
+    "errorLens.enabled": true,
     "explorer.autoReveal": false,
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
@@ -225,40 +251,29 @@
         "env-*": true
     },
     "git.autofetch": true,
-    "github.copilot.autocomplete.count": 4,
-    "github.copilot.autocomplete.enable": true,
+    "git.openRepositoryInParentFolders": "never",
     "github.copilot.enable": {
         "*": true,
-        "plaintext": true,
         "markdown": true,
+        "plaintext": true,
         "scminput": false,
         "typescript": true,
         "yaml": true
     },
-    "github.copilot.inlineSuggest.count": 4,
     "githubPullRequests.fileListLayout": "tree",
     "githubPullRequests.pullBranch": "never",
     "githubPullRequests.terminalLinksHandler": "github",
     "gitlens.currentLine.enabled": false,
     "gitlens.hovers.currentLine.over": "line",
-    "go.formatTool": "goimports",
-    "go.toolsManagement.autoUpdate": true,
     "html.format.indentInnerHtml": true,
-    "java.configuration.checkProjectSettingsExclusions": false,
-    "java.refactor.renameFromFileExplorer": "autoApply",
-    "java.requirements.JDK11Warning": false,
-    "java.semanticHighlighting.enabled": true,
     "javascript.format.semicolons": "insert",
     "javascript.suggest.autoImports": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "jupyter.askForKernelRestart": false,
     "jupyter.themeMatplotlibPlots": true,
     "latex-workshop.latex.outDir": "./build",
-    "launchqtcreator.qtDesignerPath": "/usr/lib/qt5/bin/designer",
     "liveServer.settings.donotShowInfoMsg": true,
     "liveServer.settings.donotVerifyTags": true,
-    "liveshare.allowInvites": "all",
-    "liveshare.presence": true,
     "liveshare.showInStatusBar": "whileCollaborating",
     "markdown.extension.print.theme": "dark",
     "markdown.extension.tableFormatter.normalizeIndentation": true,
@@ -271,6 +286,11 @@
     },
     "notebook.formatOnSave.enabled": true,
     "notebook.lineNumbers": "on",
+    "peacock.affectActivityBar": false,
+    "peacock.affectSashHover": false,
+    "peacock.affectStatusBar": false,
+    "peacock.affectTabActiveBorder": true,
+    "peacock.darkenLightenPercentage": 10,
     "peacock.favoriteColors": [
         {
             "name": "Angular Red",
@@ -309,16 +329,12 @@
             "value": "#42b883"
         }
     ],
+    "peacock.showColorInStatusBar": false,
+    "peacock.surpriseMeOnStartup": true,
     "prettier.jsxSingleQuote": true,
     "prettier.singleQuote": true,
+    "python.languageServer": "Default",
     "redhat.telemetry.enabled": false,
-    "rsp-ui.enableStartServerOnActivation": [
-        {
-            "id": "redhat.vscode-community-server-connector",
-            "name": "Community Server Connector",
-            "startOnActivation": true
-        }
-    ],
     "search.exclude": {
         "**/bower_components": true,
         "**/env": true,
@@ -327,30 +343,31 @@
     },
     "security.workspace.trust.enabled": false,
     "security.workspace.trust.untrustedFiles": "open",
-    "sonarlint.connectedMode.connections.sonarcloud": [],
-    "sonarlint.ls.javaHome": "/home/zau/.vscode/extensions/sonarsource.sonarlint_managed-jre/jre/jdk-11.0.11+9-jre",
-    "sonarlint.rules": {
-        "typescript:S4123": {
-            "level": "off"
-        }
-    },
     "svg.preview.mode": "svg",
+    "syncSettings.crons": {
+        "download": "0 0 * * 0",
+        "review": "0 */6 * * *",
+        "upload": "0 */6 * * *"
+    },
+    "syncSettings.showFinishAlert": false,
     "tabnine.experimentalAutoImports": true,
     "telemetry.telemetryLevel": "off",
     "terminal.external.linuxExec": "gnome-terminal",
     "terminal.integrated.defaultProfile.linux": "zsh",
-    "terminal.integrated.rightClickCopyPaste": true,
+    "terminal.integrated.enableImages": true,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.gpuAcceleration": "canvas",
     "terminal.integrated.scrollback": 1000000,
     "terminal.integrated.shellIntegration.enabled": true,
     "typescript.format.semicolons": "insert",
     "typescript.suggest.autoImports": true,
     "typescript.updateImportsOnFileMove.enabled": "always",
-    "typescriptHero.imports.insertSemicolons": false,
+    "vscode-pets.petSize": "small",
+    "vscode-pets.petType": "totoro",
     "vscode-pets.theme": "forest",
     "vscode-pets.throwBallWithMouse": true,
     "vscodeGoogleTranslate.preferredLanguage": "English",
-    "vsintellicode.features.python.deepLearning": "enabled",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "vscord.status.idle.disconnectOnIdle": true,
     "window.commandCenter": true,
     "window.menuBarVisibility": "compact",
     "window.titleBarStyle": "custom",
@@ -365,53 +382,7 @@
     },
     "workbench.iconTheme": "material-icon-theme",
     "workbench.layoutControl.enabled": false,
-    "cSpell.ignorePaths": [
-        "package-lock.json",
-        "node_modules",
-        "vscode-extension",
-        ".git/objects",
-        ".vscode",
-        ".vscode-insiders",
-        "*/Code/User/settings.json"
-    ],
-    "[markdown]": {
-        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
-    },
-    "peacock.darkenLightenPercentage": 10,
-    "peacock.affectActivityBar": false,
-    "peacock.affectStatusBar": false,
-    "peacock.affectTabActiveBorder": true,
-    "peacock.affectSashHover": false,
-    "peacock.showColorInStatusBar": false,
-    "peacock.surpriseMeOnStartup": true,
-    "terminal.integrated.fontFamily": "MesloLGS NF",
-    "[shellscript]": {
-        "editor.defaultFormatter": "foxundermoon.shell-format"
-    },
-    "editor.inlineSuggest.enabled": true,
-    "editor.inlineSuggest.suppressSuggestions": true,
-    "symbols.hidesExplorerArrows": false,
-    "terminal.integrated.enableImages": true,
-    "terminal.integrated.gpuAcceleration": "canvas",
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "vscord.status.idle.disconnectOnIdle": true,
-    "diffEditor.ignoreTrimWhitespace": false,
-    "git.openRepositoryInParentFolders": "never",
-    "[svg]": {
-        "editor.defaultFormatter": "jock.svg"
-    },
-    "[dart][python]": {
-        "editor.wordBasedSuggestions": "off"
-    },
-    "editor.minimap.enabled": false,
-    "syncSettings.crons": {
-        "review": "0 */6 * * *",
-        "download": "0 0 * * 0",
-        "upload": "0 */6 * * *"
-    },
-    "syncSettings.showFinishAlert": false,
-    "CodeGPT.model": "gpt-3.5-turbo-16k",
-    "genieai.openai.model": "gpt-3.5-turbo-instruct",
+    "errorLens.statusBarIconsEnabled": true,
+    "gitlens.telemetry.enabled": false,
+    "python.analysis.diagnosticMode": "workspace"
 }
