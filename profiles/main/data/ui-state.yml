@@ -438,7 +438,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   igma.loggedIn\"},{\"when\":\"!figma.loggedIn\"},{\"when\":\"figma.loggedIn\"}\
   ,{\"when\":\"figma.loggedIn\"}]},{\"id\":\"workbench.view.extension.tabnine\",\
   \"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/tabnine.tabnine-vs\
-  code-3.51.0/small_logo.png\",\"scheme\":\"file\"},\"name\":\"Tabnine
+  code-3.52.0-universal/small_logo.png\",\"scheme\":\"file\"},\"name\":\"Tabnine
   AI\",\"isBuiltin\":false,\"views\":[{\"when\":\"tabnine.chat.webview ==
   'chat'\"},{\"when\":\"tabnine.chat.webview ==
   'preview_ended'\"},{\"when\":\"tabnine.chat.webview ==
@@ -488,7 +488,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
 workbench.activityBar.location: side
 workbench.auxiliarybar.pinnedPanels: "[]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["yaml",true],["javascript",true],["dockerfile",true],["dockercompose",true],["github-actions-workflow",true],["json",true],["dotenv",true],["typescript",true],["jsonc",true],["plaintext",true],["markdown",true],["python",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["yaml",true],["javascript",true],["dockerfile",true],["dockercompose",true],["github-actions-workflow",true],["json",true],["dotenv",true],["jsonc",true],["python",true],["plaintext",true],["markdown",true],["typescript",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"xmlTreeView","isHidden":false},{"id":"i18n-ally-locales-file-explorer","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"petsView","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
