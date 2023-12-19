@@ -141,6 +141,7 @@
         "multistream",
         "myjobs",
         "myteam",
+        "nats",
         "Nats",
         "neith",
         "nestjs",
@@ -250,6 +251,7 @@
         "**/.git/subtree-cache/**": true,
         "**/env/**": true,
         "**/node_modules/**": true,
+        "**/__pycache__/**": true,
         "**/venv/**": true,
         "env-*": true
     },
