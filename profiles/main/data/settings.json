@@ -125,6 +125,7 @@
         "hookform",
         "IPDF",
         "Jetbrains",
+        "juliet",
         "Júlio",
         "jupyter",
         "keychain",
@@ -140,6 +141,7 @@
         "multistream",
         "myjobs",
         "myteam",
+        "Nats",
         "neith",
         "nestjs",
         "nextjs",
@@ -385,5 +387,6 @@
     "workbench.layoutControl.enabled": false,
     "errorLens.statusBarIconsEnabled": true,
     "gitlens.telemetry.enabled": false,
-    "python.analysis.diagnosticMode": "workspace"
+    "python.analysis.diagnosticMode": "workspace",
+    "editor.minimap.enabled": false
 }

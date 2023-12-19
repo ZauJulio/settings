@@ -17,6 +17,8 @@ disabled:
     uuid: 327edf3f-193d-4147-9bd5-e3763272116f
   - id: GitLab.gitlab-workflow
     uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
+  - id: GitLab.gitlab-workflow
+    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
   - id: GrapeCity.gc-excelviewer
     uuid: 8bb12ae3-73f8-40cf-86b7-4bd5729c6238
   - id: IronGeek.vscode-env
@@ -33,10 +35,10 @@ disabled:
     uuid: a721764e-7f4e-46ee-a0ba-b7439075c6a7
   - id: VisualStudioExptTeam.intellicode-api-usage-examples
     uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
-  - id: vscodevim.vim
-    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
   - id: VisualStudioExptTeam.vscodeintellicode
     uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
+  - id: vscodevim.vim
+    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
