@@ -1,6 +1,8 @@
 disabled:
   - id: bierner.color-info
     uuid: 0f8bd812-5d52-4fff-bd1c-6b0a7ee9cad9
+  - id: bierner.markdown-preview-github-styles
+    uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
   - id: burkeholland.simple-react-snippets
     uuid: a84825e8-5f04-4988-b85a-4942e795bcbe
   - id: Codium.codium
@@ -184,6 +186,8 @@ enabled:
     uuid: 1895bcfc-fdd4-4263-ade3-4aa598a21fda
   - id: njpwerner.autodocstring
     uuid: 2d6fea35-f68e-461d-9b7b-5cd05be99451
+  - id: nopeslide.vscode-drawio-plugin-mermaid
+    uuid: 9c9eb332-337a-42a0-9b6e-f767b5a4490f
   - id: oliversturm.fix-json
     uuid: da88ed17-dd66-424b-8d92-d6a2222ac171
   - id: PiesArentSquare.smooth-dark

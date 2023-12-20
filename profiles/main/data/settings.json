@@ -81,6 +81,7 @@
     ],
     "cSpell.language": "en,pt,pt-BR",
     "cSpell.userWords": [
+        "alice",
         "attendes",
         "backoffice",
         "Backoffice",
@@ -89,6 +90,7 @@
         "brazilian",
         "buildx",
         "Buildx",
+        "caico",
         "christopher",
         "ciphertext",
         "cnpj",
@@ -122,8 +124,11 @@
         "Glycemic",
         "gpid",
         "Gpid",
+        "graphya",
+        "Graphya",
         "hookform",
         "IPDF",
+        "jeff",
         "Jetbrains",
         "juliet",
         "Júlio",
@@ -136,6 +141,7 @@
         "matplotlib",
         "mendesbarreto",
         "mongodb",
+        "mossoro",
         "MPAS",
         "multimidia",
         "multistream",
@@ -390,5 +396,6 @@
     "errorLens.statusBarIconsEnabled": true,
     "gitlens.telemetry.enabled": false,
     "python.analysis.diagnosticMode": "workspace",
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "markdown-mermaid.darkModeTheme": "default"
 }

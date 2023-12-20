@@ -453,7 +453,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \",\"name\":\"GitLab
   Workflow\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.latex-work\
   shop-activitybar\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%\
-  /james-yu.latex-workshop-9.15.8-universal/icons/activity-bar.svg\",\"scheme\":\
+  /james-yu.latex-workshop-9.16.0-universal/icons/activity-bar.svg\",\"scheme\":\
   \"file\"},\"name\":\"LaTeX\",\"isBuiltin\":false,\"views\":[{\"when\":\"latex\
   -workshop:enabled\"},{\"when\":\"latex-workshop:enabled\"},{\"when\":\"latex-\
   workshop:enabled\"}]},{\"id\":\"workbench.view.extension.i18n-ally\",\"name\":\
@@ -488,7 +488,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
 workbench.activityBar.location: side
 workbench.auxiliarybar.pinnedPanels: "[]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["dockercompose",true],["github-actions-workflow",true],["json",true],["ignore",true],["python",true],["perl",true],["c",true],["plaintext",true],["dotenv",true],["markdown",true],["jsonc",true],["typescript",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["github-actions-workflow",true],["ignore",true],["python",true],["dotenv",true],["jsonc",true],["typescript",true],["perl",true],["yaml",true],["plaintext",true],["json",true],["markdown",true],["c",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"xmlTreeView","isHidden":false},{"id":"i18n-ally-locales-file-explorer","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"petsView","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
@@ -548,7 +548,7 @@ workbench.view.extension.thunder-client.state.hidden: '[{"id":"thunder-client-si
 workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":false},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false}]'
 workbench.view.remote.state.hidden: '[{"id":"remoteHub.views.workspaceRepositories","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
-workbench.views.extensions.installed.size: "103"
+workbench.views.extensions.installed.size: "104"
 workbench.views.service.panel.381b3fad-a268-4225-a3b0-0bae5ced9263.state.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.views.service.panel.edf6239c-52d9-40dd-9f57-acc67747f4bf.state.hidden:
   '[{"id":"workbench.panel.output","isHidden":false},{"id":"workbench.panel.markers.view","isHidden":false}]'
