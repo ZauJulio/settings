@@ -397,5 +397,6 @@
     "errorLens.statusBarIconsEnabled": true,
     "gitlens.telemetry.enabled": false,
     "python.analysis.diagnosticMode": "workspace",
-    "markdown-mermaid.darkModeTheme": "default"
+    "markdown-mermaid.darkModeTheme": "default",
+    "editor.minimap.enabled": false
 }
