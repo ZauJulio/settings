@@ -27,26 +27,26 @@ disabled:
     uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
   - id: GitLab.gitlab-workflow
     uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GrapeCity.gc-excelviewer
-    uuid: 8bb12ae3-73f8-40cf-86b7-4bd5729c6238
   - id: GitLab.gitlab-workflow
     uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
+  - id: GrapeCity.gc-excelviewer
+    uuid: 8bb12ae3-73f8-40cf-86b7-4bd5729c6238
   - id: IronGeek.vscode-env
     uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
   - id: lokalise.i18n-ally
     uuid: 8ab81d13-c812-4a2f-8f19-c32e3655e53c
   - id: ms-python.vscode-pylance
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
-  - id: mtxr.sqltools
-    uuid: 6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b
   - id: ms-vscode.cpptools-themes
     uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
+  - id: mtxr.sqltools
+    uuid: 6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b
   - id: PhilHindle.errorlens
     uuid: a721764e-7f4e-46ee-a0ba-b7439075c6a7
-  - id: VisualStudioExptTeam.vscodeintellicode
-    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: VisualStudioExptTeam.intellicode-api-usage-examples
     uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
+  - id: VisualStudioExptTeam.vscodeintellicode
+    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: vscodevim.vim
     uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
   - id: vscodevim.vim
