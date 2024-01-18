@@ -489,7 +489,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
 workbench.activityBar.location: side
 workbench.auxiliarybar.pinnedPanels: "[]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["typescript",true],["jsonc",true],["css",true],["properties",true],["html",true],["ignore",true],["dotenv",true],["plaintext",true],["shellscript",true],["json",true],["markdown",true],["javascript",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["shellscript",true],["markdown",true],["plaintext",true],["ignore",true],["svg",true],["javascriptreact",true],["css",true],["javascript",true],["html",true],["json",true],["dockercompose",true],["dockerfile",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"xmlTreeView","isHidden":false},{"id":"i18n-ally-locales-file-explorer","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"petsView","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
@@ -509,7 +509,7 @@ workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon"
   Console","isBuiltin":false},{"id":"workbench.panel.comments","themeIcon":{"id":"comments-view-icon"},"name":"Comments","isBuiltin":true,"views":[{}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
   Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]},{"id":"workbench.views.service.panel.381b3fad-a268-4225-a3b0-0bae5ced9263","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.views.service.panel.edf6239c-52d9-40dd-9f57-acc67747f4bf","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{"when":"debuggersAvailable"},{}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
-workbench.panel.size: "437"
+workbench.panel.size: "381"
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false}]'
 workbench.sideBar.size: "357"
 workbench.statusbar.hidden: '["status.workspaceTrust.1702554743398","mtxr.sqltools","GitLab.gitlab-workflow.gl.status.code_suggestions","vscodevim.vim.primary","vscodevim.vim.showcmd","ritwickdey.LiveServer","streetsidesoftware.code-spell-checker.spell
