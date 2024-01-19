@@ -7,6 +7,8 @@ disabled:
     uuid: a84825e8-5f04-4988-b85a-4942e795bcbe
   - id: Codium.codium
     uuid: 9236e634-e663-41bc-b320-03ab778e7110
+  - id: DanielSanMedium.dscodegpt
+    uuid: eb8db386-b7d8-4961-8048-b188d778a1e9
   - id: EQuimper.react-native-react-redux
     uuid: 7f7e0e9c-b5ad-4e21-a425-f63bd56cb13f
   - id: FexCopilot.fexcopilot
@@ -19,8 +21,6 @@ disabled:
     uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
   - id: GitLab.gitlab-workflow
     uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: DanielSanMedium.dscodegpt
-    uuid: eb8db386-b7d8-4961-8048-b188d778a1e9
   - id: GitLab.gitlab-workflow
     uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
   - id: GitLab.gitlab-workflow
