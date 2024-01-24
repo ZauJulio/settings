@@ -27,14 +27,14 @@ disabled:
     uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
   - id: GitLab.gitlab-workflow
     uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
   - id: GrapeCity.gc-excelviewer
     uuid: 8bb12ae3-73f8-40cf-86b7-4bd5729c6238
+  - id: GitLab.gitlab-workflow
+    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
+  - id: GitLab.gitlab-workflow
+    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
+  - id: GitLab.gitlab-workflow
+    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
   - id: IronGeek.vscode-env
     uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
   - id: lokalise.i18n-ally
