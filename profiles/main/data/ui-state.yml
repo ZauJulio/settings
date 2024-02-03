@@ -489,7 +489,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
 workbench.activityBar.location: side
 workbench.auxiliarybar.pinnedPanels: "[]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["markdown",true],["javascriptreact",true],["html",true],["jsonc",true],["dockerfile",true],["javascript",true],["plaintext",true],["dotenv",true],["json",true],["typescript",true],["dockercompose",true],["github-actions-workflow",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["markdown",true],["javascriptreact",true],["html",true],["jsonc",true],["dockerfile",true],["javascript",true],["dotenv",true],["typescript",true],["dockercompose",true],["plaintext",true],["github-actions-workflow",true],["json",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"xmlTreeView","isHidden":false},{"id":"i18n-ally-locales-file-explorer","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"petsView","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
