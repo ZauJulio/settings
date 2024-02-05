@@ -438,7 +438,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   igma.loggedIn\"},{\"when\":\"!figma.loggedIn\"},{\"when\":\"figma.loggedIn\"}\
   ,{\"when\":\"figma.loggedIn\"}]},{\"id\":\"workbench.view.extension.tabnine\",\
   \"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/tabnine.tabnine-vs\
-  code-3.66.0-universal/small_logo.png\",\"scheme\":\"file\"},\"name\":\"Tabnine
+  code-3.67.0-universal/small_logo.png\",\"scheme\":\"file\"},\"name\":\"Tabnine
   AI\",\"isBuiltin\":false,\"views\":[{\"when\":\"tabnine.chat.webview ==
   'chat'\"},{\"when\":\"tabnine.chat.webview ==
   'preview_ended'\"},{\"when\":\"tabnine.chat.webview ==
@@ -472,7 +472,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   .view.extension.sqltoolsActivityBarContainer\",\"name\":\"SQLTools\",\"isBuil\
   tin\":false},{\"id\":\"workbench.view.extension.thunder-client\",\"iconUrl\":{\
   \"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/rangav.vscode-thunder-client-2.\
-  17.4-universal/images/thunder-client.svg\",\"scheme\":\"file\"},\"name\":\"Th\
+  17.7-universal/images/thunder-client.svg\",\"scheme\":\"file\"},\"name\":\"Th\
   under
   Client\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.extensi\
   on.cspell-explorer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH\
@@ -489,7 +489,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
 workbench.activityBar.location: side
 workbench.auxiliarybar.pinnedPanels: "[]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["markdown",true],["javascriptreact",true],["html",true],["jsonc",true],["dockerfile",true],["javascript",true],["dotenv",true],["typescript",true],["dockercompose",true],["plaintext",true],["github-actions-workflow",true],["json",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["javascriptreact",true],["html",true],["jsonc",true],["dockerfile",true],["javascript",true],["dotenv",true],["dockercompose",true],["github-actions-workflow",true],["json",true],["typescript",true],["markdown",true],["plaintext",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"xmlTreeView","isHidden":false},{"id":"i18n-ally-locales-file-explorer","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"petsView","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
@@ -514,7 +514,7 @@ workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden
 workbench.sideBar.size: "357"
 workbench.statusbar.hidden: '["status.workspaceTrust.1702554743398","mtxr.sqltools","GitLab.gitlab-workflow.gl.status.code_suggestions","vscodevim.vim.primary","vscodevim.vim.showcmd","ritwickdey.LiveServer","streetsidesoftware.code-spell-checker.spell
   checker status
-  id","mhutchie.git-graph","eamodio.gitlens.gitlens.graph","status.host","GraphQL.vscode-graphql","status.editor.eol","status.editor.encoding","status.editor.indentation","status.debug","tonybaloney.vscode-pets","esbenp.prettier-vscode.prettier.status","TabNine.tabnine-vscode","GitHub.copilot.status","usernamehw.errorlens.errorLensWarning","usernamehw.errorlens.errorLensError","WakaTime.vscode-wakatime.com.wakatime.teamyou","WakaTime.vscode-wakatime.com.wakatime.statusbar","status.scm.1","chrmarti.regex"]'
+  id","mhutchie.git-graph","eamodio.gitlens.gitlens.graph","status.host","GraphQL.vscode-graphql","status.editor.eol","status.editor.encoding","status.editor.indentation","status.debug","tonybaloney.vscode-pets","esbenp.prettier-vscode.prettier.status","TabNine.tabnine-vscode","usernamehw.errorlens.errorLensWarning","usernamehw.errorlens.errorLensError","WakaTime.vscode-wakatime.com.wakatime.teamyou","WakaTime.vscode-wakatime.com.wakatime.statusbar","status.scm.1","chrmarti.regex"]'
 workbench.telemetryOptOutShown: "true"
 workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"CppSshTargetsView","isHidden":false}]'
 workbench.view.extension.chatgpt-vscode-view-container.state.hidden: '[{"id":"chatgpt-vscode.view","isHidden":false}]'
