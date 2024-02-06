@@ -63,6 +63,32 @@ disabled:
     uuid: 6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b
   - id: PhilHindle.errorlens
     uuid: a721764e-7f4e-46ee-a0ba-b7439075c6a7
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
   - id: VisualStudioExptTeam.intellicode-api-usage-examples
     uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
   - id: VisualStudioExptTeam.vscodeintellicode
@@ -246,8 +272,6 @@ enabled:
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
   - id: streetsidesoftware.code-spell-checker-portuguese-brazilian
     uuid: a669e675-9cb2-48a8-983d-33a1c4ed10ef
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
   - id: tamasfe.even-better-toml
     uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
   - id: tonybaloney.vscode-pets

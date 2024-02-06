@@ -437,16 +437,9 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \":\"file\"},\"name\":\"Figma\",\"isBuiltin\":false,\"views\":[{\"when\":\"!f\
   igma.loggedIn\"},{\"when\":\"!figma.loggedIn\"},{\"when\":\"figma.loggedIn\"}\
   ,{\"when\":\"figma.loggedIn\"}]},{\"id\":\"workbench.view.extension.tabnine\",\
-  \"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/tabnine.tabnine-vs\
-  code-3.67.0-universal/small_logo.png\",\"scheme\":\"file\"},\"name\":\"Tabnine
-  AI\",\"isBuiltin\":false,\"views\":[{\"when\":\"tabnine.chat.webview ==
-  'chat'\"},{\"when\":\"tabnine.chat.webview ==
-  'preview_ended'\"},{\"when\":\"tabnine.chat.webview ==
-  'capability_required'\"},{\"when\":\"tabnine.chat.webview ==
-  'authnetication_required'\"},{\"when\":\"tabnine.chat.webview ==
-  'part_of_a_team_required'\"},{\"when\":\"tabnine.chat.webview ==
-  'loading'\"}]},{\"id\":\"workbench.view.extension.copilot-labs\",\"name\":\"G\
-  itHub Copilot
+  \"name\":\"Tabnine
+  AI\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.copilot-labs\",\
+  \"name\":\"GitHub Copilot
   Labs\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.gitlab-duo\",\
   \"name\":\"GitLab Duo
   Chat\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.gitlab-workflow\
@@ -489,7 +482,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
 workbench.activityBar.location: side
 workbench.auxiliarybar.pinnedPanels: "[]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["html",true],["jsonc",true],["dockerfile",true],["dotenv",true],["dockercompose",true],["github-actions-workflow",true],["typescript",true],["markdown",true],["plaintext",true],["json",true],["javascriptreact",true],["javascript",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["html",true],["jsonc",true],["dockerfile",true],["dotenv",true],["dockercompose",true],["github-actions-workflow",true],["typescript",true],["markdown",true],["json",true],["plaintext",true],["javascript",true],["javascriptreact",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"xmlTreeView","isHidden":false},{"id":"i18n-ally-locales-file-explorer","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"petsView","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
@@ -549,7 +542,7 @@ workbench.view.extension.thunder-client.state.hidden: '[{"id":"thunder-client-si
 workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":false},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false}]'
 workbench.view.remote.state.hidden: '[{"id":"remoteHub.views.workspaceRepositories","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
-workbench.views.extensions.installed.size: "104"
+workbench.views.extensions.installed.size: "102"
 workbench.views.service.panel.381b3fad-a268-4225-a3b0-0bae5ced9263.state.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.views.service.panel.edf6239c-52d9-40dd-9f57-acc67747f4bf.state.hidden:
   '[{"id":"workbench.panel.output","isHidden":false},{"id":"workbench.panel.markers.view","isHidden":false}]'
