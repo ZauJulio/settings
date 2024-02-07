@@ -35,12 +35,12 @@ disabled:
     uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
   - id: GitLab.gitlab-workflow
     uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
   - id: GrapeCity.gc-excelviewer
     uuid: 8bb12ae3-73f8-40cf-86b7-4bd5729c6238
   - id: GraphQL.vscode-graphql
     uuid: 55ef6448-487b-49a0-a66e-4d2d9bb82229
+  - id: GitLab.gitlab-workflow
+    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
   - id: GraphQL.vscode-graphql
     uuid: 55ef6448-487b-49a0-a66e-4d2d9bb82229
   - id: GraphQL.vscode-graphql
