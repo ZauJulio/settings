@@ -367,26 +367,8 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   !github-actions.internet-access ||
   !github-actions.signed-in\"}]},{\"id\":\"workbench.view.extensions\",\"themeI\
   con\":{\"id\":\"extensions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\"\
-  :true,\"views\":[{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchExten\
-  sionUpdates || searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions
-  && workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews &&
-  hasGallery && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
-  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
-  en\":\"defaultExtensionViews && hasGallery &&
-  !config.extensions.showRecommendationsOnlyOnDemand &&
-  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"searchMarketplaceExtensions\"},{\"when\
-  \":\"searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"w\
-  hen\":\"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\
-  \"when\":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensi\
-  ons\"},{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"w\
-  hen\":\"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupported\
-  WorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"}]},{\"id\":\"wor\
-  kbench.view.remote\",\"themeIcon\":{\"id\":\"remote-explorer-view-icon\"},\"n\
-  ame\":\"Remote
+  :true,\"views\":[]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\
+  \"remote-explorer-view-icon\"},\"name\":\"Remote
   Explorer\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"workbench.view.extens\
   ion.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"i\
   sBuiltin\":true,\"views\":[{\"when\":\"testing.providerCount >
@@ -409,7 +391,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   !github:stateValidated\"}]},{\"id\":\"workbench.view.extension.gitlens\",\"th\
   emeIcon\":{\"id\":\"gitlens-gitlens\"},\"name\":\"GitLens\",\"isBuiltin\":fal\
   se,\"views\":[{},{\"when\":\"config.gitlens.cloudPatches.enabled &&
-  !gitlens:hasVirtualFolders &&
+  gitlens:gk:organization:drafts:enabled && !gitlens:hasVirtualFolders &&
   !gitlens:untrusted\"},{\"when\":\"!gitlens:hasVirtualFolders &&
   !gitlens:untrusted\"},{}]},{\"id\":\"workbench.view.extension.gitlensInspect\
   \",\"themeIcon\":{\"id\":\"gitlens-gitlens-inspect\"},\"name\":\"GitLens
@@ -465,7 +447,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   .view.extension.sqltoolsActivityBarContainer\",\"name\":\"SQLTools\",\"isBuil\
   tin\":false},{\"id\":\"workbench.view.extension.thunder-client\",\"iconUrl\":{\
   \"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/rangav.vscode-thunder-client-2.\
-  17.7-universal/images/thunder-client.svg\",\"scheme\":\"file\"},\"name\":\"Th\
+  17.8-universal/images/thunder-client.svg\",\"scheme\":\"file\"},\"name\":\"Th\
   under
   Client\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.extensi\
   on.cspell-explorer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH\
@@ -482,7 +464,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
 workbench.activityBar.location: side
 workbench.auxiliarybar.pinnedPanels: "[]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["javascriptreact",true],["jsonc",true],["ignore",true],["plaintext",true],["shellscript",true],["properties",true],["git-commit",true],["javascript",true],["dockerfile",true],["dockercompose",true],["github-actions-workflow",true],["typescript",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["css",true],["dockerfile",true],["github-actions-workflow",true],["html",true],["dotenv",true],["json",true],["jsonc",true],["javascript",true],["plaintext",true],["javascriptreact",true],["git-commit",true],["typescript",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"xmlTreeView","isHidden":false},{"id":"i18n-ally-locales-file-explorer","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"petsView","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
