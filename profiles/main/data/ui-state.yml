@@ -446,7 +446,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \",\"name\":\"GitLab
   Workflow\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.latex-work\
   shop-activitybar\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%\
-  /james-yu.latex-workshop-9.18.1-universal/icons/activity-bar.svg\",\"scheme\":\
+  /james-yu.latex-workshop-9.18.2-universal/icons/activity-bar.svg\",\"scheme\":\
   \"file\"},\"name\":\"LaTeX\",\"isBuiltin\":false,\"views\":[{\"when\":\"latex\
   -workshop:enabled\"},{\"when\":\"latex-workshop:enabled\"},{\"when\":\"latex-\
   workshop:enabled\"}]},{\"id\":\"workbench.view.extension.i18n-ally\",\"name\":\
@@ -483,7 +483,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
 workbench.activityBar.location: side
 workbench.auxiliarybar.pinnedPanels: "[]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["html",true],["json",true],["jsonc",true],["plaintext",true],["git-commit",true],["css",true],["javascriptreact",true],["javascript",true],["svg",true],["typescript",true],["dotenv",true],["typescriptreact",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["dockerfile",true],["html",true],["dotenv",true],["json",true],["jsonc",true],["git-commit",true],["css",true],["javascript",true],["typescript",true],["github-actions-workflow",true],["plaintext",true],["javascriptreact",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"xmlTreeView","isHidden":false},{"id":"i18n-ally-locales-file-explorer","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"petsView","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
@@ -505,7 +505,7 @@ workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon"
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
 workbench.panel.size: "533"
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false}]'
-workbench.sideBar.size: "497"
+workbench.sideBar.size: "358"
 workbench.statusbar.hidden: '["status.workspaceTrust.1702554743398","mtxr.sqltools","GitLab.gitlab-workflow.gl.status.code_suggestions","vscodevim.vim.primary","vscodevim.vim.showcmd","ritwickdey.LiveServer","streetsidesoftware.code-spell-checker.spell
   checker status
   id","mhutchie.git-graph","eamodio.gitlens.gitlens.graph","status.host","GraphQL.vscode-graphql","status.editor.eol","status.editor.encoding","status.editor.indentation","status.debug","tonybaloney.vscode-pets","esbenp.prettier-vscode.prettier.status","TabNine.tabnine-vscode","usernamehw.errorlens.errorLensWarning","usernamehw.errorlens.errorLensError","WakaTime.vscode-wakatime.com.wakatime.teamyou","WakaTime.vscode-wakatime.com.wakatime.statusbar","status.scm.1","chrmarti.regex","GitHub.copilot.status"]'
