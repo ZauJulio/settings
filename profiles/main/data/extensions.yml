@@ -5,56 +5,14 @@ disabled:
     uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
   - id: burkeholland.simple-react-snippets
     uuid: a84825e8-5f04-4988-b85a-4942e795bcbe
-  - id: Codium.codium
-    uuid: 9236e634-e663-41bc-b320-03ab778e7110
-  - id: DanielSanMedium.dscodegpt
-    uuid: eb8db386-b7d8-4961-8048-b188d778a1e9
   - id: EQuimper.react-native-react-redux
     uuid: 7f7e0e9c-b5ad-4e21-a425-f63bd56cb13f
-  - id: FexCopilot.fexcopilot
-    uuid: 804a6035-76d9-4fa4-b8ca-23d997506855
-  - id: genieai.chatgpt-vscode
-    uuid: daf35080-6889-46fc-89bf-288dce8f8ed2
   - id: GitHub.copilot-labs
     uuid: 327edf3f-193d-4147-9bd5-e3763272116f
   - id: GitLab.gitlab-workflow
     uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
-  - id: GitLab.gitlab-workflow
-    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
   - id: GrapeCity.gc-excelviewer
     uuid: 8bb12ae3-73f8-40cf-86b7-4bd5729c6238
-  - id: GraphQL.vscode-graphql
-    uuid: 55ef6448-487b-49a0-a66e-4d2d9bb82229
-  - id: GraphQL.vscode-graphql
-    uuid: 55ef6448-487b-49a0-a66e-4d2d9bb82229
-  - id: GraphQL.vscode-graphql
-    uuid: 55ef6448-487b-49a0-a66e-4d2d9bb82229
-  - id: GraphQL.vscode-graphql
-    uuid: 55ef6448-487b-49a0-a66e-4d2d9bb82229
-  - id: GraphQL.vscode-graphql
-    uuid: 55ef6448-487b-49a0-a66e-4d2d9bb82229
   - id: GraphQL.vscode-graphql
     uuid: 55ef6448-487b-49a0-a66e-4d2d9bb82229
   - id: IronGeek.vscode-env
@@ -67,40 +25,10 @@ disabled:
     uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
   - id: mtxr.sqltools
     uuid: 6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b
-  - id: PhilHindle.errorlens
-    uuid: a721764e-7f4e-46ee-a0ba-b7439075c6a7
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
   - id: VisualStudioExptTeam.intellicode-api-usage-examples
     uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
   - id: VisualStudioExptTeam.vscodeintellicode
     uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
-  - id: vscodevim.vim
-    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
   - id: vscodevim.vim
     uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
 enabled:
